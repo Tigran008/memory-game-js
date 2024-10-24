@@ -26,8 +26,6 @@ window.addEventListener("load", function () {
     }
 }); 
 
-
-
 let selectedCard = null;
 let lockBoard = false;
 const arrowSide = ["180deg", "360deg"]
